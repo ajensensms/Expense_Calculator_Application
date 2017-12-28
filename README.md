@@ -13,7 +13,7 @@ Annette Jensen
 In this project we used JavaScript to create a calulator.
 
 ### View Project:
-https://preview.c9users.io/ajensen/jensen_lesson4_javascript1/index.html?_c9_id=livepreview0&_c9_host=https://ide.c9.io
+https://ajensensms.github.io/lesson4_javascript1/java/index.html
 
 ### Lessons Learned in the Assignment:
 1. In this assigment we learned how to edit code with JavaScript
