@@ -12,8 +12,7 @@ Annette Jensen
 ### Project Description:
 In this project we used JavaScript to create a calulator.
 
-### View Project:
-https://ajensensms.github.io/lesson4_javascript1/java/index.html
+
 
 ### Lessons Learned in the Assignment:
 1. In this assigment we learned how to edit code with JavaScript
